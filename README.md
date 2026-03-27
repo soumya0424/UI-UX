@@ -9,8 +9,7 @@ This repository contains UI/UX design projects, including wireframes, prototypes
 ## Tools & Tech
 
 - Figma
-- Adobe XD
-- HTML / CSS (for implementation)
+- HTML|CSS|JAVASCRIPT (for implementation)
 
 ## Projects
 
