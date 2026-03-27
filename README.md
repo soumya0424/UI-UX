@@ -6,7 +6,7 @@ _Design with Purpose — UI/UX Projects & Prototypes_
 
 Built with the tools and technologies:
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
 
@@ -22,7 +22,7 @@ Built with the tools and technologies:
 
 ## Overview
 
-UI-UX is a collection of UI/UX design projects including wireframes, prototypes, and design assets built with Figma and implemented with HTML/CSS/JavaScript.
+UI-UX is a collection of UI/UX design projects including wireframes, prototypes, and design assets created with Figma.
 
 **Why UI-UX?**
 
@@ -41,7 +41,6 @@ UI-UX is a collection of UI/UX design projects including wireframes, prototypes,
 This project requires the following:
 
 - **Design Tool:** Figma (for viewing/editing prototypes)
-- **Browser:** Any modern browser (for HTML/CSS implementations)
 
 ### Installation
 
@@ -54,4 +53,4 @@ This project requires the following:
 
 ### Usage
 
-Open the Figma files in the `resources` folder or open HTML files directly in a browser to view the implementations.
+Open the Figma files in the `resources` folder to view the design prototypes.
